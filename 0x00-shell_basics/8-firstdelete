@@ -1,1 +1,1 @@
-#!/bin/bash\nrm /tmp/my_first_directory/betty
+#!/bin/bash\ncd /tmp/my_first_directory\nrm betty
